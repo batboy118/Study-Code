@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="AOOP_Ch10_practice_2">
+</Property><Property Name="Solution File" Value="C:\Users\kbs\Desktop\Lab\lab04_ch10_part2\AOOP_Ch10_practice_2.sln">
+</Property><Property Name="User Options File" Value="C:\Users\kbs\Desktop\Lab\lab04_ch10_part2\AOOP_Ch10_practice_2.suo">
+</Property><Property Name="Date" Value="2014년 4월 23일 수요일">
+</Property><Property Name="Time" Value="오후 19:01">
+</Property><Property Name="Log Number" Value="5">
+</Property></Properties><Event ErrorLevel="2" Project="" Source="AOOP_Ch10_practice_2.sln" Description="Error creating backup file: C:\Users\kbs\Desktop\Lab\lab04_ch10_part2\AOOP_Ch10_practice_2.sln.old">
+</Event><Event ErrorLevel="2" Project="" Source="AOOP_Ch10_practice_2.suo" Description="Error creating backup file: C:\Users\kbs\Desktop\Lab\lab04_ch10_part2\AOOP_Ch10_practice_2.suo.old">
+</Event><Event ErrorLevel="3" Project="ch10_p01" Source="ch10_p01\ch10_p01.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="ch10_p02" Source="ch10_p02\ch10_p02.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="HomeWork_CH10_2" Source="HomeWork_CH10_2\HomeWork_CH10_2.vcproj" Description="Converting project file 'C:\Users\kbs\Desktop\Lab\lab04_ch10_part2\HomeWork_CH10_2\HomeWork_CH10_2.vcproj'.">
+</Event><Event ErrorLevel="2" Project="HomeWork_CH10_2" Source="HomeWork_CH10_2\HomeWork_CH10_2.vcproj" Description="File 'C:\Users\kbs\Desktop\Lab\lab04_ch10_part2\HomeWork_CH10_2\HomeWork_CH10_2.vcproj' was not found.">
+</Event><Event ErrorLevel="2" Project="HomeWork_CH10_2" Source="HomeWork_CH10_2\HomeWork_CH10_2.vcproj" Description="Project upgrade failed.">
+</Event><Event ErrorLevel="3" Project="HomeWork_CH10_2" Source="HomeWork_CH10_2\HomeWork_CH10_2.vcproj" Description="Not Converted">
+</Event><Event ErrorLevel="3" Project="ch10_p03" Source="ch10_p03\ch10_p03.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="ch10_p04" Source="ch10_p04\ch10_p04.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="ch10_p05" Source="ch10_p05\ch10_p05.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="3" Project="ch10_p06" Source="ch10_p06\ch10_p06.vcxproj" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="" Source="AOOP_Ch10_practice_2.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="AOOP_Ch10_practice_2.sln" Description="No Conversion Required">
+</Event></UpgradeLog>
